@@ -6,7 +6,7 @@
 name: Paul Brown
 
 # Short bio or description (displayed in the header)
-description: we description
+description: Terraform Step by Step
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -22,15 +22,9 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  linkedin: https://www.linkedin.com/in/paul-d-brown/
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  twitter: ukpdb111
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
