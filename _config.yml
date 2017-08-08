@@ -18,7 +18,7 @@ description: A Simple Step by Step Guide to Infrastructure as Code
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:ukpdb111@gmail.com
   github: ukpdb111
   linkedin: paul-d-brown
   rss: # just type anything here for a working RSS icon
@@ -26,7 +26,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:paulbrown-2
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:UA-73261744-2
