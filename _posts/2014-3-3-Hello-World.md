@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Post 1
+comments: true
 ---
 
 Post 1 test
