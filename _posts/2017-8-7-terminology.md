@@ -2,7 +2,7 @@
 layout: post
 title: Automation v Orchestration
 comments: true
-categories:
+categories: General
 ---
 In the world of infrastructure provision and configuration two terms used frequently are Automation and Orchestration, understanding what each of these terms actually means is very important.
 
