@@ -6,7 +6,7 @@ categories: Personal
 ---
 Hello, I am Paul Brown. 
 
-This blog is aimed at those taking their very first steps into the provisioning and configuration of cloud infrastructure by code, it will provide a very basic level of information with the objective supporting you in your early steps. 
+This blog is aimed at those taking their first steps into the provisioning and configuration of cloud infrastructure by code, it will cut through all of the complexities to get you up and running quickly providing you with a foundation from which you can develop your capabilities further.
 
 I will be mainly focusing on the tools Terraform and Ansible targeting UKClouds Enterprise Cloud Compute service via vCloud Director and their Cloud Native Infrastructure powered by OpenStack.
 
