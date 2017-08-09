@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 categories: Personal
 ---
-Hello, Paul Brown here. <img align="right" src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/profile.jpg" style="PADDING-LEFT: 15px;> This blog is aimed at those taking their first steps into the provisioning and configuration of cloud infrastructure by code, it will cut through all of the complexities to get you up and running quickly providing you with a foundation from which you can develop your capabilities further.
+Hello, Paul Brown here. <img align="right" src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/profile.jpg" hspace="10"> This blog is aimed at those taking their first steps into the provisioning and configuration of cloud infrastructure by code, it will cut through all of the complexities to get you up and running quickly providing you with a foundation from which you can develop your capabilities further.
 
 I will be mainly focusing on the tools Terraform and Ansible targeting UKClouds Enterprise Cloud Compute service via vCloud Director and their Cloud Native Infrastructure powered by OpenStack.
 
