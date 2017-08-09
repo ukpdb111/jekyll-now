@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 categories: Personal
 ---
-Hello, Paul Brown here. <img align="right" src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/profile3.jpg" hspace="35"> 
+Hello, Paul Brown here. <img align="right" src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/profile3.jpg" hspace="40"> 
 
 This blog is to support those taking their first steps in, or just interested in, the provisioning and configuration of cloud infrastructure by code. It will get you up and running quickly providing you with a foundation from which you can develop your capabilities further.
 
