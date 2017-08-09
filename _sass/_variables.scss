@@ -3,6 +3,9 @@
 // VARIABLES
 //
 
+// Google font import
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+
 // Colors
 $blue: #4183C4;
 
@@ -15,8 +18,8 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helvetica: "Source Sans Pro", Helvetica, Arial, sans-serif;
+$helveticaNeue: "Roboto Mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
