@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 catagories: Personal
 ---
-Hello, I am Paul Brown. My aim is to enable customers to extract the maximum value from their cloud platform through the use of Infrastructure Orchestration and Configuration Management tools.
+Hello, I am Paul Brown. 
+
+This blog is aimed at those taking their very first steps into the provisioning and configuration of cloud infrstructure, it will provide a very basic level of information with the objective supporting you in your early steps. 
+
+I will be focusing on the tools Terraform and Ansible targeting UKClouds Enterprise Cloud Compute service via vCloud Director and Cloud Native Infrastructure powered by OpenStack.
 
 I am employed by UKCloud as a Cloud Deployment Architect and the information in this blog is the personal opinion of the author, and does not necessarily reflect the opinions or position of UKCloud Limited.
 
