@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Terminology - Automation v Orchestration
+title: Automation v Orchestration
 comments: true
-categories: [Terraform, VCloud Director]
+categories:
 ---
 In the world of infrastructure provision and configuration two terms used frequently are Automation and Orchestration, understanding what each of these terms actually means is very important.
 
