@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 categories: Personal
 ---
-Hello, I am Paul Brown.  ![alt text](https://avatars2.githubusercontent.com/u/20362999?v=4&s=460 "Logo Title Text 1")
+Hello, I am Paul Brown.  <img align="right" src=",,,,,">
 
 This blog is aimed at those taking their first steps into the provisioning and configuration of cloud infrastructure by code, it will cut through all of the complexities to get you up and running quickly providing you with a foundation from which you can develop your capabilities further.
 
