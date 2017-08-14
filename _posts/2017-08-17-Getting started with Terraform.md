@@ -17,8 +17,6 @@ Step by step for Windows:
 
 To verify the installation of Terraform was successfull open a command or Powershell console and enter Terraform -v
 
-![alt text](https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/tf_verify.jpg "Verify Terraform has installed correctly")
-
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/tf_verify.jpg">
 </p>
