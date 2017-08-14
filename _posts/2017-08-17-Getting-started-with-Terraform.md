@@ -3,7 +3,7 @@ layout: post
 title: Installing Terraform on Windows
 comments: true
 categories: [Terraform]
-published: true
+published: false
 ---
 The installation of Terraform is very simple. It requires the downloading of a zip archive, extracting the binary from the archive then adding the location of the extracted binary to the PATH variable.
 
