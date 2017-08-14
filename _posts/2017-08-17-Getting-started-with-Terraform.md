@@ -16,7 +16,7 @@ Step by step for Windows:
 5. Add the directory to the end of the PATH variable. 
 6. If you have a console open, it'll need restarting.
 
-To verify the installation of Terraform was successfull open a command or Powershell console and enter Terraform -v
+To verify the installation of Terraform was successfull open a command or Powershell console and enter terraform -v
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/tf_verify.jpg">
