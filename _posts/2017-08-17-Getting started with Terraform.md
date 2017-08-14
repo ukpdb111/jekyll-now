@@ -17,7 +17,6 @@ Step by step for Windows:
 
 To verify the installation of Terraform was successfull open a command or Powershell console and enter Terraform -v
 
-Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 That's it.
