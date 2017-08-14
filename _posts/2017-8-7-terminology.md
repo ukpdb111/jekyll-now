@@ -10,4 +10,4 @@ Automation is concerned with a single task, launching a database server, configu
 
 Orchestration is the arrangement and coordination of automated tasks resulting in a consolidated workflow. 
 
-For example to spin up an environment to host a new application many automated tasks will be required to deploy networks, security, instances/VMs, monitoring, management and there may also be OS configuration and this is where Orchestration comes in to manage these tasks.
+For example to spin up an environment to host a new application many automated tasks will be required to deploy networks, security, instances/VMs, monitoring, management and there may also be OS configuration and this is where Orchestration is used to arrange and coordinate these tasks.
