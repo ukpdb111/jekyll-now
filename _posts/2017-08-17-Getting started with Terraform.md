@@ -20,5 +20,3 @@ To verify the installation of Terraform was successfull open a command or Powers
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/ukpdb111/ukpdb111.github.io/master/images/tf_verify.jpg">
 </p>
-
-That's it.
